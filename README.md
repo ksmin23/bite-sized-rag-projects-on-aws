@@ -1,4 +1,4 @@
-# Bite-sized RAG(Retrieval Augmented Generation) Projects on AWS
+# Bite-sized RAG Projects on AWS
 ![Stats](https://img.shields.io/badge/13-RAG_CDK_Projects-blue?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
