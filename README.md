@@ -26,3 +26,10 @@ Collections of the bite sized RAG(Retrieval Augmented Generation) projects imple
 | knowldege base + opensearch serverless | bedrock | [rag-with-knowledge-bases-for-amazon-bedrock-using-opensearch-serverless (CDK L3 Constructs Version)](https://github.com/aws-samples/aws-kr-startup-samples/tree/main/gen-ai/rag-with-knowledge-bases-for-amazon-bedrock-using-gen-ai-cdk-constructs)|
 | |  | [rag-with-knowledge-bases-for-amazon-bedrock-using-opensearch-serverless (CDK L1 Construct Version)](https://github.com/aws-samples/aws-kr-startup-samples/tree/main/gen-ai/rag-with-knowledge-bases-for-amazon-bedrock) |
 |knowldege base + postgresql | bedrock | [rag-with-knowledge-bases-for-amazon-bedrock-using-aurora-postgresql](https://github.com/aws-samples/aws-kr-startup-samples/tree/main/gen-ai/rag-with-knowledge-bases-for-amazon-bedrock-using-aurora-postgresql) |
+
+
+## References
+
+[RAG Architecture: From Concepts to Implementations (slides)](https://speakerdeck.com/ksmin23/rag-akitegceo-gaenyeombuteo-guhyeonggaji)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zI7rin2S_Ak/0.jpg)](https://www.youtube.com/watch?v=zI7rin2S_Ak)
