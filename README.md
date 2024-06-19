@@ -1,6 +1,13 @@
-# bite-sized-rag-projects-on-aws
+# Bite sized RAG(Retrieval Augmented Generation) Projects on AWS
 ![Stats](https://img.shields.io/badge/13-RAG_CDK_Projects-blue?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+Collections of the bite sized RAG(Retrieval Augmented Generation) projects implemented on AWS
+
+- Simple, easy to learn RAG Architectures
+- Deployable by IaC (AWS CDK)
+- Various combinations of Vector Store, LLMs, and Embedding Models
+
 
 | Vector store | Hosting LLM, Embedding Model | Git Url |
 |--------------|------------------------------|---------|
