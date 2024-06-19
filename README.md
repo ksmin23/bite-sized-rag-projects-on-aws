@@ -15,8 +15,8 @@ Collections of the bite sized RAG(Retrieval Augmented Generation) projects imple
 | opensearch | sagemaker | [rag-with-amazon-opensearch-and-sagemaker](https://github.com/aws-samples/rag-with-amazon-opensearch-and-sagemaker)|
 | opensearch serverless | bedrock | [rag-with-amazon-bedrock-and-opensearch-serverless](https://github.com/aws-samples/aws-kr-startup-samples/tree/main/gen-ai/rag-with-amazon-bedrock-and-opensearch-serverless) |
 | opensearch serverless | sagemaker | [rag-with-amazon-opensearch-serverless-and-sagemaker](https://github.com/aws-samples/rag-with-amazon-opensearch-serverless-and-sagemaker) |
-| postgresql+pgvector | bedrock | [rag-with-amazon-bedrock-and-postgresql-using-pgvector](https://github.com/aws-samples/aws-kr-startup-samples/tree/main/gen-ai/rag-with-amazon-bedrock-and-postgresql-using-pgvector) |
-| postgresql+pgvector | sagemaker | [rag-with-amazon-postgresql-using-pgvector-and-sagemaker](https://github.com/aws-samples/rag-with-amazon-postgresql-using-pgvector) |
+| postgresql + pgvector | bedrock | [rag-with-amazon-bedrock-and-postgresql-using-pgvector](https://github.com/aws-samples/aws-kr-startup-samples/tree/main/gen-ai/rag-with-amazon-bedrock-and-postgresql-using-pgvector) |
+| postgresql + pgvector | sagemaker | [rag-with-amazon-postgresql-using-pgvector-and-sagemaker](https://github.com/aws-samples/rag-with-amazon-postgresql-using-pgvector) |
 | documentdb | bedrock | [rag-with-amazon-bedrock-and-documentdb](https://github.com/aws-samples/rag-with-amazon-bedrock-and-documentdb)|
 | documentdb | sagemaker | TBD |
 | memorydb | bedrock | [rag-with-amazon-bedrock-and-memorydb](https://github.com/aws-samples/rag-with-amazon-bedrock-and-memorydb) |
