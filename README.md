@@ -18,7 +18,7 @@ Collection of the bite-sized RAG(Retrieval Augmented Generation) projects implem
 | postgresql + pgvector | bedrock | [rag-with-amazon-bedrock-and-postgresql-using-pgvector](https://github.com/aws-samples/aws-kr-startup-samples/tree/main/gen-ai/rag-with-amazon-bedrock-and-postgresql-using-pgvector) | ![](./images/rag_with_bedrock_and_postgres_pgvector_arch.svg) |
 | postgresql + pgvector | sagemaker | [rag-with-amazon-postgresql-using-pgvector-and-sagemaker](https://github.com/aws-samples/rag-with-amazon-postgresql-using-pgvector-and-sagemaker) | ![](./images/rag_with_postgres_pgvector_and_sagemaker_arch.svg) |
 | documentdb | bedrock | [rag-with-amazon-bedrock-and-documentdb](https://github.com/aws-samples/rag-with-amazon-bedrock-and-documentdb) | ![](./images/rag_with_bedrock_and_docdb_arch.svg) |
-| documentdb | sagemaker | TBD |
+| documentdb | sagemaker | [rag-with-amazon-documentdb-and-sagemaker](https://github.com/aws-samples/aws-kr-startup-samples/tree/main/gen-ai/rag-with-amazon-documentdb-and-sagemaker) | ![](./images/rag_with_docdb_and_sagemaker_arch.svg) |
 | memorydb | bedrock | [rag-with-amazon-bedrock-and-memorydb](https://github.com/aws-samples/rag-with-amazon-bedrock-and-memorydb) | ![](./images/rag_with_bedrock_and_memorydb_arch.svg) |
 | memorydb | sagemaker | TBD | |
 | kendra | bedrock | [rag-with-amazon-bedrock-and-kendra](https://github.com/aws-samples/qa-app-with-rag-using-amazon-bedrock-and-kendra) | ![](./images/rag_with_bedrock_and_kendra_arch.svg) |
