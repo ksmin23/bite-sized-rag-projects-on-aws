@@ -30,6 +30,5 @@ Collection of the bite-sized RAG(Retrieval Augmented Generation) projects implem
 
 ## References
 
-[RAG Architecture: From Concepts to Implementations (slides)](https://speakerdeck.com/ksmin23/rag-akitegceo-gaenyeombuteo-guhyeonggaji)
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zI7rin2S_Ak/0.jpg)](https://www.youtube.com/watch?v=zI7rin2S_Ak)
+ * [RAG Architecture: From Concepts to Implementations (slides)](https://speakerdeck.com/ksmin23/rag-akitegceo-gaenyeombuteo-guhyeonggaji)
+ * :cinema:[(YouTube) RAG 아키텍처 – 개념부터 구현까지](https://www.youtube.com/watch?v=zI7rin2S_Ak)
